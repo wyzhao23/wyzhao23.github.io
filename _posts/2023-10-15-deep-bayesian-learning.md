@@ -8,7 +8,7 @@ description: Deep Neural Networks (DNNs) are powerful tools capable of
   and uncertainty estimation, efficient Bayesian deep learning gain considerable attention in a 
   variety of real-world tasks, especially when uncertainty quantification is critical.
 tags: Machine-Learning
-thumbnail: assets/img/dak.png
+thumbnail: assets/img/9.jpg
 images:
   compare: true
   slider: true

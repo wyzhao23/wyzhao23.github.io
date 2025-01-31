@@ -9,7 +9,7 @@ description: Private information retrieval (PIR) systems are motivated by the ne
   download costs than a protocol without such a requirement, which requires effort to improve the code 
   construction of PIR systems.
 tags: Information-Theory
-thumbnail: assets/img/wpir.jpg
+thumbnail: assets/img/9.jpg
 images:
   compare: true
   slider: true
