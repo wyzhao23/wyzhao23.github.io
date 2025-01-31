@@ -40,7 +40,7 @@ the latency of data processing, makes the deployment between vehicles and roadsi
 enhances the security of information interchanged in the Internet of Vehicles. Fog computing devices will become 
 an indispensable part of the future construction of Internet of Vehicles.
 
-[A Survey on Fog Computing Applications in Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/9463276)
+"A Survey on Fog Computing Applications in Internet of Vehicles", International Conference on Computing and Data Science, 2021.
 
 ## Online Review Classifier
 

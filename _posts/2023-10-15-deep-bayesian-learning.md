@@ -60,9 +60,3 @@ DMGP package is available at https://github.com/warrenzha/dmgp.
         {% include figure.liquid loading="eager" path="assets/img/tmgp.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-References you might like to read:
-
-- [Gaussian Processes for Machine Learning](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8e7d8fbaf4e4d250e3ce4c94876558bef412744e)
-- [A Sparse Expansion for Deep Gaussian Processes](https://arxiv.org/pdf/2112.05888.pdf)
-- [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912.pdf)

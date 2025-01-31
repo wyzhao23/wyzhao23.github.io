@@ -46,4 +46,4 @@ the probability distribution for this construction.
 
 Check our latest paper:
 
-- **ISIT 2024**: [Weakly Private Information Retrieval from Heterogeneously Trusted Servers](https://ieeexplore.ieee.org/abstract/document/10619321)
+- **ISIT 2024**: [Weakly Private Information Retrieval from Heterogeneously Trusted Servers](https://arxiv.org/pdf/2402.17940)

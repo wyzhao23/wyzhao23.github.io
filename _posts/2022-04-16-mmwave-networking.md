@@ -34,5 +34,3 @@ successfully ran the simulation-trained RL policy and self-supervision agent on 
         {% include figure.liquid loading="eager" path="assets/img/dymesh.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-[AI-driven Dynamic Millimeter-Wave Mesh Backhaul](https://warrenzha.github.io/assets/pdf/AIdriven_Dynamic_MillimeterWave_Mesh.pdf)
