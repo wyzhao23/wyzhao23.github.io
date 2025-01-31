@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-bayesian-deep-learning-as-deep-gaussian-processes",
+        },{id: "post-bayesian-deep-learning",
       
-        title: "Bayesian Deep Learning as Deep Gaussian Processes",
+        title: "Bayesian Deep Learning",
       
       description: "Deep Neural Networks (DNNs) are powerful tools capable of capturing intricate patterns in large datasets, but lack the ability to provide uncertainty estimation. To learn rich, hierarchical representations from data with proper interpretability and uncertainty estimation, efficient Bayesian deep learning gain considerable attention in a variety of real-world tasks, especially when uncertainty quantification is critical.",
       section: "Posts",
@@ -113,8 +113,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-from-deep-additive-kernel-learning-to-last-layer-bayesian-neural-networks-via-induced-prior-approximation-is-accepted-by-aistats-2025",
           title: 'Our paper “From deep additive kernel learning to last-layer Bayesian neural networks via...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-sample-project",
+          title: 'Sample project',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
