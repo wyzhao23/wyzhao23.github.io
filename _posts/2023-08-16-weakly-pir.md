@@ -9,13 +9,21 @@ description: Private information retrieval (PIR) systems are motivated by the ne
   download costs than a protocol without such a requirement, which requires effort to improve the code 
   construction of PIR systems.
 tags: [information-theory]
-thumbnail: assets/img/wpir.png
+thumbnail: assets/img/publication_preview/PIR.png
 images:
   lightbox2: true
   photoswipe: true
   spotlight: true
   venobox: true
+toc:
+  sidebar: left
 ---
+
+Check our latest paper:
+
+- Submitted to **ISIT 2025**: [Optimizing Leaky Private Information Retrieval Codes to Achieve O(log K) Leakage Ratio Exponent](https://arxiv.org/pdf/2501.12310)
+- **ISIT 2024**: [Weakly Private Information Retrieval from Heterogeneously Trusted Servers](https://arxiv.org/pdf/2402.17940)
+
 
 ## Leaky Private Information Retrieval
 
@@ -47,7 +55,3 @@ a significant manner. We study the problem of weakly PIR when there is heterogen
 trustfulness, i.e. some servers can be more trustworthy than others, under the maximal leakage (Max-L) 
 metric and mutual information (MI) metric. A code construction is proposed for this setting and optimized 
 the probability distribution for this construction.
-
-Check our latest paper:
-
-- **ISIT 2024**: [Weakly Private Information Retrieval from Heterogeneously Trusted Servers](https://arxiv.org/pdf/2402.17940)

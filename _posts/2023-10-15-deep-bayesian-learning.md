@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bayesian Deep Learning as Deep Gaussian Processes
+title: Bayesian Deep Learning
 date: 2025-01-21 11:46:00
 description: Deep Neural Networks (DNNs) are powerful tools capable of 
   capturing intricate patterns in large datasets, but lack the ability to provide uncertainty 
@@ -8,13 +8,19 @@ description: Deep Neural Networks (DNNs) are powerful tools capable of
   and uncertainty estimation, efficient Bayesian deep learning gain considerable attention in a 
   variety of real-world tasks, especially when uncertainty quantification is critical.
 tags: [machine-learning]
-thumbnail: assets/img/dak.png
+thumbnail: assets/img/publication_preview/additive GP.png
 images:
   lightbox2: true
   photoswipe: true
   spotlight: true
   venobox: true
+toc:
+  sidebar: left
 ---
+
+Check our latest paper:
+
+- **AISTATS 2025**: From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation
 
 ## Deep Additive Kernel Learning
 
@@ -33,10 +39,6 @@ state-of-the-art DKL methods in both regression and classification tasks.
         {% include figure.liquid loading="eager" path="assets/img/dak.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-Check our latest paper:
-
-- AISTATS 2025: From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation
 
 ## Deep Markov Gaussian Processes
 
