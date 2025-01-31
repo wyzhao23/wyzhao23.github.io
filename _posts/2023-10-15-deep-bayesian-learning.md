@@ -7,11 +7,13 @@ description: Deep Neural Networks (DNNs) are powerful tools capable of
   estimation. To learn rich, hierarchical representations from data with proper interpretability 
   and uncertainty estimation, efficient Bayesian deep learning gain considerable attention in a 
   variety of real-world tasks, especially when uncertainty quantification is critical.
-tags: Machine-Learning
-thumbnail: assets/img/tmgp.png
+tags: [machine-learning]
+thumbnail: assets/img/dak.png
 images:
-  compare: true
-  slider: true
+  lightbox2: true
+  photoswipe: true
+  spotlight: true
+  venobox: true
 ---
 
 ## Deep Additive Kernel Learning
@@ -51,7 +53,7 @@ surpasses the performance of traditional DGP methods, all while significantly re
 of parameters. Due to the strong connection to deep neural networks, DMGPs can be easily extended 
 to other state-of-art deep learning architectures and applications. 
 
-DMGP package is available at https://github.com/warrenzha/dmgp. 
+DMGP package is available at [https://github.com/warrenzha/dmgp](https://github.com/warrenzha/dmgp). 
 
 - [Documentation, examples, tutorials](https://dmgp.readthedocs.io) on how to construct all sorts of DMGP models.
 

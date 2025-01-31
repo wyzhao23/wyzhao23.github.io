@@ -8,8 +8,13 @@ description: Private information retrieval (PIR) systems are motivated by the ne
   must remain hidden from any individual server. This privacy requirement necessarily incurs higher 
   download costs than a protocol without such a requirement, which requires effort to improve the code 
   construction of PIR systems.
-tags: Information-Theory
+tags: [information-theory]
 thumbnail: assets/img/wpir.png
+images:
+  lightbox2: true
+  photoswipe: true
+  spotlight: true
+  venobox: true
 ---
 
 ## Leaky Private Information Retrieval

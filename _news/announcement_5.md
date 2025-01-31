@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ph.D. student at Texas A&M University advised by Prof. <a href="https://tiangroup.engr.tamu.edu">Chao Tian</a>! :sparkles: :smile:
+Pursuing Ph.D. degree at Texas A&M University with Prof. <a href="https://tiangroup.engr.tamu.edu">Chao Tian</a>! :sparkles:

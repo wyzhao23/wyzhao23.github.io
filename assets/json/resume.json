@@ -4,7 +4,7 @@
     "label": "Ph.D. Student",
     "image": "",
     "email": "wyzhao@tamu.edu",
-    "phone": "858-361-6905",
+    "phone": "",
     "url": " https://wyzhao23.github.io/",
     "summary": "An aggie at Texas A&M University, working on the general area of machine learning and information theory",
     "location": {
@@ -76,15 +76,21 @@
   ],
   "publications": [
     {
-      "name": "Optimizing Leaky Private Information Retrieval Codes to Achieve O(log K) Leakage Ratio Exponent",
-      "publisher": "PrePrint",
+      "name": "From Deep Additive Kernel Learning to Last-layer Bayesian Neural Networks via Induced Prior Approximation",
+      "publisher": "International Conference on Artificial Intelligence and Statistics (AISTATS)",
       "releaseDate": "2025",
-      "url": "https://arxiv.org/pdf/2501.12310",
-      "summary": "Submitted to ISIT 2025. Under review."
+      "summary": "Acceptance rate: 31.3%."
     },
     {
-      "name": "Weakly private information retrieval from heterogeneously trusted servers",
-      "publisher": "ISIT 2024",
+      "name": "Optimizing Leaky Private Information Retrieval Codes to Achieve O(log K) Leakage Ratio Exponent",
+      "publisher": "Submitted to ISIT 2025",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/pdf/2501.12310",
+      "summary": "Preprint. Under review."
+    },
+    {
+      "name": "Weakly Private Information Retrieval from Heterogeneously Trusted Servers",
+      "publisher": "arXiv",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2402.17940",
       "summary": "Partially presented at 2024 IEEE International Symposium on Information Theory (ISIT)."

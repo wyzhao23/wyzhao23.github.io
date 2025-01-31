@@ -9,8 +9,13 @@ description: Integrated Access and Backhaul (IAB) is an emerging technique to en
   decisions, but its practical deployment faces new system-level challenges in 5G IAB, including accurate 
   simulation-based training, resolving conflicting objectives from heterogeneous network slices, and 
   efficiently collecting observations for run-time decision-making.
-tags: Communications
+tags: [communications]
 thumbnail: assets/img/dymesh.png
+images:
+  lightbox2: true
+  photoswipe: true
+  spotlight: true
+  venobox: true
 ---
 
 ## Dynamic mmWave Mesh Network
