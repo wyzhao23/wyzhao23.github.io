@@ -7,10 +7,7 @@ description: The short wave-length of mmwave signals facilitates exploiting larg
   beams leads to a large overhead in beam training for obtaining channel state information, especially in 
   dynamic environments. 
 tags: Communications
-thumbnail: assets/img/9.jpg
-images:
-  compare: true
-  slider: true
+thumbnail: assets/img/bat.png
 ---
 
 ## Beam Alignment and Tracking

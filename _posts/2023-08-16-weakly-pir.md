@@ -9,10 +9,7 @@ description: Private information retrieval (PIR) systems are motivated by the ne
   download costs than a protocol without such a requirement, which requires effort to improve the code 
   construction of PIR systems.
 tags: Information-Theory
-thumbnail: assets/img/9.jpg
-images:
-  compare: true
-  slider: true
+thumbnail: assets/img/wpir.png
 ---
 
 ## Leaky Private Information Retrieval
@@ -27,6 +24,14 @@ should be assigned higher probabilities. This new scheme provides a significant 
 an O(log K) leakage ratio exponent with fixed download cost D and number of servers N, in contrast to the previous art
 that only achieves a Θ(K) exponent, where K is the number of messages.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/wpir.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pirdp.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## Weakly Private Information Retrieval
 
@@ -37,12 +42,6 @@ a significant manner. We study the problem of weakly PIR when there is heterogen
 trustfulness, i.e. some servers can be more trustworthy than others, under the maximal leakage (Max-L) 
 metric and mutual information (MI) metric. A code construction is proposed for this setting and optimized 
 the probability distribution for this construction.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wpir.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
 
 Check our latest paper:
 

@@ -8,7 +8,7 @@ description: Deep Neural Networks (DNNs) are powerful tools capable of
   and uncertainty estimation, efficient Bayesian deep learning gain considerable attention in a 
   variety of real-world tasks, especially when uncertainty quantification is critical.
 tags: Machine-Learning
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/tmgp.png
 images:
   compare: true
   slider: true
@@ -32,9 +32,9 @@ state-of-the-art DKL methods in both regression and classification tasks.
     </div>
 </div>
 
-Check our latest paper "From deep additive kernel learning to last-layer Bayesian neural networks 
-via induced prior approximation" at 2025 International Conference on Artificial Intelligence and 
-Statistics (AISTATS)
+Check our latest paper:
+
+- AISTATS 2025: From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation
 
 ## Deep Markov Gaussian Processes
 

@@ -10,10 +10,7 @@ description: Integrated Access and Backhaul (IAB) is an emerging technique to en
   simulation-based training, resolving conflicting objectives from heterogeneous network slices, and 
   efficiently collecting observations for run-time decision-making.
 tags: Communications
-thumbnail: assets/img/9.jpg
-images:
-  compare: true
-  slider: true
+thumbnail: assets/img/dymesh.png
 ---
 
 ## Dynamic mmWave Mesh Network
