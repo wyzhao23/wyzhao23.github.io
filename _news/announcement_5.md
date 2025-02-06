@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pursuing Ph.D. degree at Texas A&M University with Prof. <a href="https://tiangroup.engr.tamu.edu">Chao Tian</a>! :sparkles:
+Pursuing Ph.D. degree at Texas A&M University with Prof. [Chao Tian](https://tiangroup.engr.tamu.edu)! :sparkles: :smile:

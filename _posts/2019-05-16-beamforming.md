@@ -6,7 +6,7 @@ description: The short wave-length of mmwave signals facilitates exploiting larg
   large array gains and combat large path-loss. However, the use of large antenna arrays along with narrow 
   beams leads to a large overhead in beam training for obtaining channel state information, especially in 
   dynamic environments. 
-tags: [communications]
+tags: communications
 toc:
   sidebar: left
 ---

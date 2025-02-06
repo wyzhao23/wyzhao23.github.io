@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "wyzhao030",
+        "url": "https://twitter.com/wyzhao030"
       }
     ]
   },
@@ -26,7 +26,7 @@
     {
       "institution": "Texas A&M University, TX, US",
       "location": "College Station, US",
-      "url": "https://engineering.tamu.edu/electrical/index.html",
+      "url": "https://ece.tamu.edu",
       "area": "Information Science and Learning Systems",
       "studyType": "Ph.D.",
       "startDate": "2023-08",

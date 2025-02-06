@@ -9,7 +9,7 @@ profile:
   image: prof_zwy.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ROOM 326 C</p>
+    <p>ROOM 326</p>
     <p>WEB Building</p>
     <p>College Station, TX 77840</p>
 
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 6 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false

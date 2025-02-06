@@ -5,7 +5,7 @@ date: 2021-06-15 11:46:00
 description: We studied the general area of machine learning and data science. A machine learning-based algorithm is 
   proposed to classify customer reviews. A complex-valued gradient neural network (CVGNN) is proposed to solve the 
   Moore-Penrose inverse of complex matrices. We also investigated fog computing in the Internet of Vehicles.
-tags: [machine-learning]
+tags: machine-learning
 toc:
   sidebar: left
 ---
