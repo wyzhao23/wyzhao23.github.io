@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-vitae",
-          title: "Vitae",
-          description: "",
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Curriculum Vitae",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -104,8 +104,8 @@ ninja.data = [{
           section: "News",},{id: "news-graduation-from-ucsd-with-m-s-degree-conferred-goodbye-ucsd",
           title: 'Graduation from UCSD with M.S. degree conferred. Goodbye, UCSD! 🎓',
           description: "",
-          section: "News",},{id: "news-pursuing-ph-d-degree-at-texas-a-amp-amp-m-university-with-prof-chao-tian-sparkles",
-          title: 'Pursuing Ph.D. degree at Texas A&amp;amp;amp;M University with Prof. Chao Tian! :sparkles:',
+          section: "News",},{id: "news-pursuing-ph-d-degree-at-texas-a-amp-amp-m-university-with-prof-chao-tian-sparkles-smile",
+          title: 'Pursuing Ph.D. degree at Texas A&amp;amp;amp;M University with Prof. Chao Tian! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "news-our-paper-weakly-private-information-retrieval-from-heterogeneously-trusted-servers-is-accepted-by-isit-2024",
           title: 'Our paper “Weakly private information retrieval from heterogeneously trusted servers” is accepted by...',
