@@ -20,7 +20,7 @@ toc:
 
 Check our latest paper:
 
-- **AISTATS 2025**: From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation
+- **AISTATS 2025**: [From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation](https://arxiv.org/abs/2502.10540)
 
 ## Deep Additive Kernel Learning
 

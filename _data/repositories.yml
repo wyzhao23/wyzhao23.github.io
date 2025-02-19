@@ -3,5 +3,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - warrenzha/dak2bnn
   - warrenzha/dmgp
   - warrenzha/ppo-gae-pytorch

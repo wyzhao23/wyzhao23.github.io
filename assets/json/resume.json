@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Wenyuan Zhao",
+    "name": "Wenyuan (Warren) Zhao",
     "label": "Ph.D. Student",
     "image": "",
     "email": "wyzhao@tamu.edu",
@@ -24,7 +24,7 @@
   },
   "education": [
     {
-      "institution": "Texas A&M University, TX, US",
+      "institution": "Texas A&M University, United States",
       "location": "College Station, US",
       "url": "https://ece.tamu.edu",
       "area": "Information Science and Learning Systems",
@@ -35,7 +35,7 @@
       "courses": ["Advisor: Prof. Chao Tian", "GPA: 4.0/4.0"]
     },
     {
-      "institution": "University of California San Diego, CA, US",
+      "institution": "University of California San Diego, United States",
       "location": "La Jolla, US",
       "url": "https://www.ucsd.edu",
       "area": "Communication Theory and Systems",
@@ -77,7 +77,7 @@
   "publications": [
     {
       "name": "From Deep Additive Kernel Learning to Last-layer Bayesian Neural Networks via Induced Prior Approximation",
-      "publisher": "International Conference on Artificial Intelligence and Statistics (AISTATS)",
+      "publisher": "Presented at AISTATS 2025",
       "releaseDate": "2025",
       "summary": "Acceptance rate: 31.3%."
     },
@@ -90,10 +90,10 @@
     },
     {
       "name": "Weakly Private Information Retrieval from Heterogeneously Trusted Servers",
-      "publisher": "arXiv",
+      "publisher": "Partially presented at ISIT 2024",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2402.17940",
-      "summary": "Partially presented at 2024 IEEE International Symposium on Information Theory (ISIT)."
+      "summary": "Preprint. Under review."
     }
   ],
   "projects": [
