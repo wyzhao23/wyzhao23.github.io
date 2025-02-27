@@ -58,6 +58,11 @@
   ],
   "awards": [
     {
+      "title": "ECE Poster Event Winner",
+      "date": "2025",
+      "awarder": "Texas A&M University"
+    },
+    {
       "title": "Sun Qingyun Scholarship",
       "date": "2020",
       "awarder": "Southeast University"
@@ -79,6 +84,7 @@
       "name": "From Deep Additive Kernel Learning to Last-layer Bayesian Neural Networks via Induced Prior Approximation",
       "publisher": "Presented at AISTATS 2025",
       "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2502.10540",
       "summary": "Acceptance rate: 31.3%."
     },
     {

@@ -46,7 +46,7 @@ that only achieves a Θ(K) exponent, where K is the number of messages.
     </div>
 </div>
 
-## Weakly Private Information Retrieval
+## Heterogeneous Weakly Private Information Retrieval
 
 Private information retrieval (PIR) systems were motivated by the necessity to safeguard user privacy 
 during information retrieval. In the standard PIR framework, a user wishes to retrieve a desired message 

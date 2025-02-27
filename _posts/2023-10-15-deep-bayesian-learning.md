@@ -55,8 +55,7 @@ surpasses the performance of traditional DGP methods, all while significantly re
 of parameters. Due to the strong connection to deep neural networks, DMGPs can be easily extended 
 to other state-of-art deep learning architectures and applications. 
 
-DMGP package is available at [https://github.com/warrenzha/dmgp](https://github.com/warrenzha/dmgp). 
-
+- DMGP package is available at [https://github.com/warrenzha/dmgp](https://github.com/warrenzha/dmgp).
 - [Documentation, examples, tutorials](https://dmgp.readthedocs.io) on how to construct all sorts of DMGP models.
 
 <div class="row mt-3">
