@@ -1,22 +1,56 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: "SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning"
+    authors: <strong>Wenyuan Zhao</strong>, Rui Tuo, Chao Tian
+    conference_short: ICML
+    conference: The Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    image: ./assets/img/gpan.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "GPan-LoRA: Gaussian Process Amortized Networks for Bayesian Low-Rank Adaptation in Large Language Models"
+    authors: Weifeng Zhang*, <strong>Wenyuan Zhao*</strong>, Amir Hossein Rahmati, Yucheng Wang, Zhiyuan Wang, Chao Tian, Xiaoning Qian <br> (* Equal contribution)
+    conference_short: ICML
+    conference: The Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    image: ./assets/img/gpan.png
+    notes: Early Accept
+
+  - title: "Trust3R: Unifying Feed-Forward Pointmap Prediction and Evidential Learning for Trust-Aware 3D Reconstruction"
+    authors: Zihao Zhu*, <strong>Wenyuan Zhao*</strong>, Nuo Chen, Chao Tian, Zhiwen Fan <br> (* Equal contribution)
+    conference_short: ICML
+    conference: The Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    image: ./assets/img/trust3r.png
+    notes: Early Accept
+
+  - title: "Partial Information Decomposition via Normalizing Flows in Latent Gaussian Distributions"
+    authors: <strong>Wenyuan Zhao</strong>, Adithya Balachandran, Chao Tian, Paul Pu Liang
+    conference_short: NeurIPS
+    conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2510.04417
+    code: https://github.com/warrenzha/flow-pid
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iv1PSa1EbPcJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELy4kjw-Tq8:AFyMTJUAAAAAafk4Vq8mU8H-TYmL58Sg2qFqSyM&scisig=AFyMTJUAAAAAafk4VvuW_Q3PYklTZFTz2PIx4p4&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/pid.png
+
+  - title: "From Deep Additive Kernel Learning to Last-layer Bayesian Neural Networks via Induced Prior Approximation"
+    authors: <strong>Wenyuan Zhao*</strong>, Haoyuan Chen*, Tie Liu, Tuo Rui, Chao Tian <br> (* Equal contribution)
+    conference_short: AISTATS
+    conference: The 28th International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2502.10540
+    code: https://github.com/warrenzha/dak2bnn
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xH2ojrnZLUIJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELWMnTw8HXg:AFyMTJUAAAAAafk6BXgLYuo0_AHsfUnFxDOhzMg&scisig=AFyMTJUAAAAAafk6Be6WQ1sRoTI2jQ0Vg1TNSdo&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/dak.png
+
+  - title: "Optimizing Leaky Private Information Retrieval Codes to Achieve ${O}(\log K)$ Leakage Ratio Exponent"
+    authors: <strong>Wenyuan Zhao*</strong>, Yu-Shin Huang, Chao Tian, Alex Sprintson
+    conference_short: ISIT
+    conference: IEEE International Symposium on Information Theory <strong>(ISIT)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2502.10540
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-c0FNkY9kPMJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELWMnTw9PhE:AFyMTJUAAAAAafk7JhHgfx1zXWHITogTTJYQH1I&scisig=AFyMTJUAAAAAafk7JicmD4pHmEYo1i0XLLx7Lqs&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/lpir.png
+
+  - title: "Weakly Private Information Retrieval from Heterogeneously Trusted Servers"
+    authors: <strong>Wenyuan Zhao*</strong>, Yu-Shin Huang, Ruida Zhou, Chao Tian
+    conference_short: IEEE
+    conference: IEEE Transactions on Information Theory.
+    pdf: https://arxiv.org/pdf/2402.17940
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:N_s3gbxBKaoJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELWMnTw6Pwo:AFyMTJUAAAAAafk8JwqyXegU-u2-0bArHbOnXVI&scisig=AFyMTJUAAAAAafk8J265HfPKLbAkSL5cJNQPs84&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/wpir.png
