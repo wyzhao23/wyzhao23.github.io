@@ -4,7 +4,7 @@ main:
     authors: <strong>Wenyuan Zhao</strong>, Rui Tuo, Chao Tian
     conference_short: ICML
     conference: The Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
-    image: ./assets/img/gpan.png
+    image: ./assets/img/sika.png
     notes: Early Accept
 
   - title: "GPan-LoRA: Gaussian Process Amortized Networks for Bayesian Low-Rank Adaptation in Large Language Models"
