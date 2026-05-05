@@ -39,7 +39,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xH2ojrnZLUIJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELWMnTw8HXg:AFyMTJUAAAAAafk6BXgLYuo0_AHsfUnFxDOhzMg&scisig=AFyMTJUAAAAAafk6Be6WQ1sRoTI2jQ0Vg1TNSdo&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/dak.png
 
-  - title: "Optimizing Leaky Private Information Retrieval Codes to Achieve ${O}(\log K)$ Leakage Ratio Exponent"
+  - title: 'Optimizing Leaky Private Information Retrieval Codes to Achieve ${O}(\log K)$ Leakage Ratio Exponent'
     authors: <strong>Wenyuan Zhao*</strong>, Yu-Shin Huang, Chao Tian, Alex Sprintson
     conference_short: ISIT
     conference: IEEE International Symposium on Information Theory <strong>(ISIT)</strong>, 2025.
