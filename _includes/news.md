@@ -9,7 +9,6 @@
 <li><strong>[Apr. 2025]</strong> ISIT 2025 Travel Grant Award!</li>
 <li><strong>[Mar. 2025]</strong> Our paper about <a href="https://arxiv.org/abs/2502.10540">Deep Kernel Learning</a> is accepted to <strong>AISTATS 2025</strong>.</li>
 </ul>
-
 <details class="news-more">
   <summary>Show more ...</summary>
   <ul>
