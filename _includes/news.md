@@ -8,12 +8,12 @@
 <li><strong>[Jun. 2025]</strong> Our paper about <a href="https://ieeexplore.ieee.org/abstract/document/11045741">Weakly PIR</a> is accepted to <strong>IEEE Transactions on Information Theory</strong>.</li>
 <li><strong>[Apr. 2025]</strong> ISIT 2025 Travel Grant Award!</li>
 <li><strong>[Mar. 2025]</strong> Our paper about <a href="https://arxiv.org/abs/2502.10540">Deep Kernel Learning</a> is accepted to <strong>AISTATS 2025</strong>.</li>
+</ul>
 
-
-<li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
-<div id="newsmore">
+<details class="news-more">
+  <summary>Show more ...</summary>
+  <ul>
   <li><strong>[Aug. 2023]</strong> Pursuing Ph.D. degree at Texas A&amp;M University with Prof. <a href="https://tiangroup.engr.tamu.edu">Chao Tian</a>!</li>
   <li><strong>[Nov. 2019]</strong> First-prize (<strong>top 0.7%</strong>) winner at 2019 Mathematical Contest in Modeling!</li>
-</div>
-
-</ul>
+  </ul>
+</details>

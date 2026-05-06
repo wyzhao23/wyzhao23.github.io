@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d68810-2ea1-43e0-88ef-f213ccc14928" name="Changes" comment="update config">
-      <change afterPath="$PROJECT_DIR$/_includes/news.md" afterDir="false" />
+    <list default="true" id="40d68810-2ea1-43e0-88ef-f213ccc14928" name="Changes" comment="update new, bib">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/news.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/services.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/publications-no-dark-mode.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/publications-no-dark-mode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/publications.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/publications.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,8 @@
       <workItem from="1778004581372" duration="64000" />
       <workItem from="1778004666169" duration="785000" />
       <workItem from="1778005767918" duration="1334000" />
-      <workItem from="1778040261629" duration="1691000" />
+      <workItem from="1778040261629" duration="1819000" />
+      <workItem from="1778042187396" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="update bib and posts">
       <option name="closed" value="true" />
@@ -516,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778005446509</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="update new, bib">
+      <option name="closed" value="true" />
+      <created>1778042074661</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1778042074661</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +536,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.liquid" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update websites" />
     <MESSAGE value="update bib" />
     <MESSAGE value="update posts" />
     <MESSAGE value="update pages: about, bib, cv" />
@@ -553,7 +560,8 @@
     <MESSAGE value="update: news" />
     <MESSAGE value="new minimal-light page" />
     <MESSAGE value="update config" />
-    <option name="LAST_COMMIT_MESSAGE" value="update config" />
+    <MESSAGE value="update new, bib" />
+    <option name="LAST_COMMIT_MESSAGE" value="update new, bib" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
