@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<p style="margin: 0 0 12px; font-size:0.95rem;">A full list of publications is available on <a href="https://scholar.google.com/citations?user=MoYK76gAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.</p>
 
 <div class="publications">
 <ol class="bibliography">
