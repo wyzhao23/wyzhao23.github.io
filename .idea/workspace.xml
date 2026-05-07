@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d68810-2ea1-43e0-88ef-f213ccc14928" name="Changes" comment="update news">
+    <list default="true" id="40d68810-2ea1-43e0-88ef-f213ccc14928" name="Changes" comment="update bib">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/homepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +179,7 @@
       <workItem from="1778042187396" duration="763000" />
       <workItem from="1778043110964" duration="822000" />
       <workItem from="1778044104362" duration="24000" />
-      <workItem from="1778169322651" duration="992000" />
+      <workItem from="1778169322651" duration="1819000" />
     </task>
     <task id="LOCAL-00001" summary="update bib and posts">
       <option name="closed" value="true" />
@@ -548,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778043996291</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="update bib">
+      <option name="closed" value="true" />
+      <created>1778170331473</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1778170331473</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +569,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.liquid" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update posts" />
     <MESSAGE value="update pages: about, bib, cv" />
     <MESSAGE value="update research: PID" />
     <MESSAGE value="link check" />
@@ -585,7 +593,8 @@
     <MESSAGE value="update new, bib" />
     <MESSAGE value="update layout" />
     <MESSAGE value="update news" />
-    <option name="LAST_COMMIT_MESSAGE" value="update news" />
+    <MESSAGE value="update bib" />
+    <option name="LAST_COMMIT_MESSAGE" value="update bib" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
