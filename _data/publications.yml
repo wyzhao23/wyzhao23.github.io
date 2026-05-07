@@ -27,7 +27,7 @@ main:
     conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2510.04417
     code: https://github.com/warrenzha/flow-pid
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iv1PSa1EbPcJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELy4kjw-Tq8:AFyMTJUAAAAAafk4Vq8mU8H-TYmL58Sg2qFqSyM&scisig=AFyMTJUAAAAAafk4VvuW_Q3PYklTZFTz2PIx4p4&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/zhao2025partial.txt
     image: ./assets/img/pid.png
 
   - title: "From Deep Additive Kernel Learning to Last-layer Bayesian Neural Networks via Induced Prior Approximation"
@@ -36,21 +36,21 @@ main:
     conference: The 28th International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2025.
     pdf: https://arxiv.org/abs/2502.10540
     code: https://github.com/warrenzha/dak2bnn
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xH2ojrnZLUIJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELWMnTw8HXg:AFyMTJUAAAAAafk6BXgLYuo0_AHsfUnFxDOhzMg&scisig=AFyMTJUAAAAAafk6Be6WQ1sRoTI2jQ0Vg1TNSdo&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    bibtex: ./assets/files/zhao2025deep.txt
     image: ./assets/img/dak.png
 
   - title: "Optimizing Leaky Private Information Retrieval Codes to Achieve O(log K) Leakage Ratio Exponent"
-    authors: <strong>Wenyuan Zhao*</strong>, Yu-Shin Huang, Chao Tian, Alex Sprintson
+    authors: <strong>Wenyuan Zhao</strong>, Yu-Shin Huang, Chao Tian, Alex Sprintson
     conference_short: ISIT
     conference: IEEE International Symposium on Information Theory <strong>(ISIT)</strong>, 2025.
     pdf: https://arxiv.org/abs/2502.10540
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-c0FNkY9kPMJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELWMnTw9PhE:AFyMTJUAAAAAafk7JhHgfx1zXWHITogTTJYQH1I&scisig=AFyMTJUAAAAAafk7JicmD4pHmEYo1i0XLLx7Lqs&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/zhao2025optimizing.txt
     image: ./assets/img/lpir.png
 
   - title: "Weakly Private Information Retrieval from Heterogeneously Trusted Servers"
-    authors: <strong>Wenyuan Zhao*</strong>, Yu-Shin Huang, Ruida Zhou, Chao Tian
+    authors: <strong>Wenyuan Zhao</strong>, Yu-Shin Huang, Ruida Zhou, Chao Tian
     conference_short: IEEE
     conference: IEEE Transactions on Information Theory.
     pdf: https://arxiv.org/pdf/2402.17940
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:N_s3gbxBKaoJ:scholar.google.com/&output=citation&scisdr=ClgpF5hMELWMnTw6Pwo:AFyMTJUAAAAAafk8JwqyXegU-u2-0bArHbOnXVI&scisig=AFyMTJUAAAAAafk8J265HfPKLbAkSL5cJNQPs84&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/zhao2025weakly.txt
     image: ./assets/img/wpir.png

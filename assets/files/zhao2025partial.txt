@@ -1,0 +1,6 @@
+@article{zhao2025partial,
+  title={Partial Information Decomposition via Normalizing Flows in Latent Gaussian Distributions},
+  author={Zhao, Wenyuan and Balachandran, Adithya and Tian, Chao and Liang, Paul Pu},
+  journal={arXiv preprint arXiv:2510.04417},
+  year={2025}
+}

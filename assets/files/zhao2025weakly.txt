@@ -1,0 +1,7 @@
+@article{zhao2025weakly,
+  title={Weakly private information retrieval from heterogeneously trusted servers},
+  author={Zhao, Wenyuan and Huang, Yu-Shin and Zhou, Ruida and Tian, Chao},
+  journal={IEEE Transactions on Information Theory},
+  year={2025},
+  publisher={IEEE}
+}

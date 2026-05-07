@@ -1,0 +1,8 @@
+@inproceedings{zhao2025optimizing,
+  title={Optimizing Leaky Private Information Retrieval Codes to Achieve $ O ($\backslash$log K) $ Leakage Ratio Exponent},
+  author={Zhao, Wenyuan and Huang, Yu-Shin and Tian, Chao and Sprintson, Alex},
+  booktitle={2025 IEEE International Symposium on Information Theory (ISIT)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
+}

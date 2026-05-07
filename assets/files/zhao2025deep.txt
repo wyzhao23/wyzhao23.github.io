@@ -1,0 +1,8 @@
+@inproceedings{zhao2025deep,
+  title={From Deep Additive Kernel Learning to Last-Layer Bayesian Neural Networks via Induced Prior Approximation},
+  author={Zhao, Wenyuan and Chen, Haoyuan and Liu, Tie and Tuo, Rui and Tian, Chao},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={4231--4239},
+  year={2025},
+  organization={PMLR}
+}
