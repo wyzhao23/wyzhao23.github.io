@@ -4,22 +4,25 @@ main:
     authors: <strong>Wenyuan Zhao</strong>, Rui Tuo, Chao Tian
     conference_short: ICML
     conference: The Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2605.26509
+    code: https://github.com/warrenzha/sika-gp
     image: ./assets/img/sika.png
-    notes: Early Accept
 
   - title: "GPan-LoRA: Gaussian Process Amortized Networks for Bayesian Low-Rank Adaptation in Large Language Models"
     authors: Weifeng Zhang*, <strong>Wenyuan Zhao*</strong>, Amir Hossein Rahmati, Yucheng Wang, Zhiyuan Wang, Chao Tian, Xiaoning Qian <br> (* Equal contribution)
     conference_short: ICML
     conference: The Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    code: https://github.com/WEIFZH/GPan-LoRA
     image: ./assets/img/gpan.png
-    notes: Early Accept
 
   - title: "Trust3R: Unifying Feed-Forward Pointmap Prediction and Evidential Learning for Trust-Aware 3D Reconstruction"
     authors: Zihao Zhu*, <strong>Wenyuan Zhao*</strong>, Nuo Chen, Chao Tian, Zhiwen Fan <br> (* Equal contribution)
     conference_short: ICML
     conference: The Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2605.19539
+    code: https://github.com/phai-lab/Trust3R
+    page: https://trust3r-z.github.io/
     image: ./assets/img/trust3r.png
-    notes: Early Accept
 
   - title: "Partial Information Decomposition via Normalizing Flows in Latent Gaussian Distributions"
     authors: <strong>Wenyuan Zhao</strong>, Adithya Balachandran, Chao Tian, Paul Pu Liang
