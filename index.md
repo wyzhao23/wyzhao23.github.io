@@ -12,13 +12,13 @@ where I worked on Dynamic mmWave Networking with Prof. [Xinyu Zhang](https://xyz
 I obtained my B.E. in Information Engineering at Southeast University in 2021.
 
 My research lies in the general area of **machine learning** and **information theory**, with a special focus 
-on building trustworthy AI systems that can effectively handle uncertainty and leverage multimodal data.
+on building trustworthy AI systems and foundation that can effectively handle uncertainty and leverage multimodal data.
 
 ## Research Interests
 
-- **Machine Learning:** generative models, multimodal learning, 3D geometry models
-- **Uncertainty Quantification:** Gaussian process, Bayesian learning, evidential learning
-- **Information Theory:** information bottleneck, partial information decomposition
+- **Machine Learning:** Bayesian deep learning, uncertainty quantification, multimodal learning
+- **Generative Foundation Models:** 3D geometry, agent skills and foundation
+- **Information Theory:** partial information decomposition, privacy, information retrieval
 
 
 {% include_relative _includes/news.md %}

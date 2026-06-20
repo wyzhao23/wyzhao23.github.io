@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>[Jun. 2026]</strong> Recognized as Silver Reviewer for ICML 2026 conference.</li>
-<li><strong>[May. 2026]</strong> Joining ByteDance Inc. as a research scientist intern on Global Monetization.</li>
+<li><strong>[May. 2026]</strong> Joining ByteDance Inc. as a research scientist intern on Applied Algorithm and Foundation.</li>
 <li><strong>[Apr. 2026]</strong> Three papers (<strong>GPan-LoRA, <a href="https://arxiv.org/abs/2605.26509">SIKA-GP</a>, <a href="https://trust3r-z.github.io/">Trust3R</a></strong>) are accepted to <strong>ICML 2026</strong>.</li>
 <li><strong>[Nov. 2025]</strong> ECE Poster Event <strong>Winner</strong> at Texas A&M University! (two years in a row)</li>
 <li><strong>[Oct. 2025]</strong> NeurIPS 2025 Scholar Award!</li>

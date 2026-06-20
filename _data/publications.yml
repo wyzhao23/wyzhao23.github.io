@@ -1,4 +1,11 @@
 main:
+  - title: "DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax"
+  - authors: Minseong Kweon, <strong>Wenyuan Zhao*</strong>, Nuo Chen, Lulin Liu, Huiwen Han, Zihao Zhu, Srinivas Shakkottai, Chao Tian, Zhiwen Fan
+  - pdf: https://arxiv.org/pdf/2606.11326
+  - code: https://github.com/phai-lab/DarkVGGT
+  - page: https://darkvggt.github.io/
+  - image: ./assets/img/darkvggt.png
+  - note: "Preprint"
 
   - title: "SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning"
     authors: <strong>Wenyuan Zhao</strong>, Rui Tuo, Chao Tian
