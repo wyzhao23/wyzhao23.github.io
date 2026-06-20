@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d68810-2ea1-43e0-88ef-f213ccc14928" name="Changes" comment="update recent pubs">
+    <list default="true" id="40d68810-2ea1-43e0-88ef-f213ccc14928" name="Changes" comment="update bib">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
     </list>
@@ -50,23 +50,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.011759740214149" />
-      <entry key="MS500" value="1.4112250343590482" />
-      <entry key="S2" value="1.8028994063422572" />
-      <entry key="S5" value="2.1110255756583705" />
-      <entry key="S10" value="2.9916324131964167" />
-      <entry key="S30" value="5.294525279752949" />
-      <entry key="S60" value="6.504189520525121" />
-      <entry key="M2" value="7.609186727106479" />
-      <entry key="M5" value="9.599072238525952" />
-      <entry key="M10" value="11.194599777094487" />
-      <entry key="M15" value="11.954794279641352" />
-      <entry key="M30" value="12.876684696312104" />
-      <entry key="H1" value="13.410307066568572" />
-      <entry key="H2" value="13.697750347959838" />
-      <entry key="H4" value="13.846972541443353" />
-      <entry key="D1" value="13.97422664565219" />
-      <entry key="W1" value="13.996311450082533" />
+      <entry key="MS100" value="1.864979287265822" />
+      <entry key="MS500" value="2.383854178330425" />
+      <entry key="S2" value="2.8468037742257355" />
+      <entry key="S5" value="3.4238008245673908" />
+      <entry key="S10" value="4.427469486313234" />
+      <entry key="S30" value="7.164825749448045" />
+      <entry key="S60" value="8.771568054858736" />
+      <entry key="M2" value="10.168750851128381" />
+      <entry key="M5" value="12.373307309160749" />
+      <entry key="M10" value="14.062307402039684" />
+      <entry key="M15" value="14.860460231594878" />
+      <entry key="M30" value="15.825800334854453" />
+      <entry key="H1" value="16.38378980342265" />
+      <entry key="H2" value="16.684202240336038" />
+      <entry key="H4" value="16.840123357361232" />
+      <entry key="D1" value="16.97307443733104" />
+      <entry key="W1" value="16.99614658417445" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -88,23 +88,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9639971583355024" />
-      <entry key="MS500" value="1.3987273674908254" />
-      <entry key="S2" value="1.7990838604400259" />
-      <entry key="S5" value="2.1090735392019275" />
-      <entry key="S10" value="2.989756112827641" />
-      <entry key="S30" value="5.293035936281345" />
-      <entry key="S60" value="6.503209235470687" />
-      <entry key="M2" value="7.608539751338704" />
-      <entry key="M5" value="9.59860224435529" />
-      <entry key="M10" value="11.194256138973122" />
-      <entry key="M15" value="11.954527910022398" />
-      <entry key="M30" value="12.876528020243265" />
-      <entry key="H1" value="13.410221740564296" />
-      <entry key="H2" value="13.697705777212922" />
-      <entry key="H4" value="13.846949757537127" />
-      <entry key="D1" value="13.974222777186434" />
-      <entry key="W1" value="13.99631089567678" />
+      <entry key="MS100" value="1.7056216585337212" />
+      <entry key="MS500" value="2.348067170778726" />
+      <entry key="S2" value="2.837232610602759" />
+      <entry key="S5" value="3.4194876418762843" />
+      <entry key="S10" value="4.4246158873547525" />
+      <entry key="S30" value="7.163004188796502" />
+      <entry key="S60" value="8.770373874174783" />
+      <entry key="M2" value="10.167979341167921" />
+      <entry key="M5" value="12.372783612825367" />
+      <entry key="M10" value="14.06193545766932" />
+      <entry key="M15" value="14.8601743893364" />
+      <entry key="M30" value="15.82563349287872" />
+      <entry key="H1" value="16.383699254272933" />
+      <entry key="H2" value="16.684155017915348" />
+      <entry key="H4" value="16.840099236891625" />
+      <entry key="D1" value="16.9730703445519" />
+      <entry key="W1" value="16.996145997685055" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -244,15 +244,8 @@
       <workItem from="1781650251265" duration="693000" />
       <workItem from="1781929412238" duration="263000" />
       <workItem from="1781929688828" duration="1473000" />
-      <workItem from="1781932906471" duration="69000" />
-    </task>
-    <task id="LOCAL-00002" summary="update bib">
-      <option name="closed" value="true" />
-      <created>1745956497463</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1745956497463</updated>
+      <workItem from="1781932906471" duration="135000" />
+      <workItem from="1781933099419" duration="5000" />
     </task>
     <task id="LOCAL-00003" summary="update posts">
       <option name="closed" value="true" />
@@ -638,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781932387353</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update bib">
+      <option name="closed" value="true" />
+      <created>1781932989810</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1781932989810</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -673,9 +674,9 @@
     <MESSAGE value="update layout" />
     <MESSAGE value="update news" />
     <MESSAGE value="update homepage" />
-    <MESSAGE value="update bib" />
     <MESSAGE value="update recent pubs" />
-    <option name="LAST_COMMIT_MESSAGE" value="update recent pubs" />
+    <MESSAGE value="update bib" />
+    <option name="LAST_COMMIT_MESSAGE" value="update bib" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
